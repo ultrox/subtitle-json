@@ -96,7 +96,7 @@ A timecoded subtitle overlay is represented as a common JSON object:
 
 * **trigger**: The time in milliseconds the screen event cue occurs.
 * **lang**: The ISO language code of the content to be displayed.
-* **atyles**: Which style classes the playback device should apply to the content.
+* **styles**: Which style classes the playback device should apply to the content.
 * **templates**: Which display templates the playback device should apply to the content (queued).
 * **start**: A mathematical breakdown of the time the screen event should be triggered.
 * **end**: A mathematical breakdown of the time the screen event should finish and no longer display.
